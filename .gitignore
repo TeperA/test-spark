@@ -27,6 +27,7 @@ hs_err_pid*
 .idea/
 *.iml
 *.iws
+.DS_Store
 
 ## Maven
 log/
